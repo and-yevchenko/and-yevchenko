@@ -22,18 +22,23 @@
 [![Static Badge](https://img.shields.io/badge/webpack-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=%238DD6F9&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/zustand-%232c2c2d?style=for-the-badge&logo=zustand&logoColor=%238DD6F9&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23764ABC&labelColor=black)](#)
-[![Static Badge](https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/react%20router-%23CA4245?style=for-the-badge&logo=reactrouter&logoColor=%23CA4245&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/react%20hook%20form-%23EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&labelColor=black)](#)
+[![Static Badge](https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/css%20modules-%23141514?style=for-the-badge&logo=cssmodules&logoColor=white&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/tailwind%20css-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23CC6699&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/bem-%232c2c2d?style=for-the-badge&logo=bem&logoColor=white&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/prettier-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=%23F7B93E&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=black)](#)
+[![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=%23000)](#)
 
+## 📊 Stats:
 
-
+<div align="center">
+  <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=and-yevchenko&show_icons=true&theme=transparent"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=and-yevchenko&theme=transparent&layout=compact&&langs_count=8"/>
+</div>
 <!--
 **and-yevchenko/and-yevchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
