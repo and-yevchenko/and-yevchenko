@@ -6,7 +6,7 @@
 :mailbox: Reach me out!
 
 [![Mail Badge](https://img.shields.io/badge/Andrii%20Yevchenko-red?style=flat&logo=gmail&logoColor=white&labelColor=red)](mailto:anddevpublic@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/Andrii%20Yevchenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/and-yevchenko)
+[![Linkedin Badge](https://img.shields.io/badge/Andrii%20Yevchenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/and-yevchenko)
 
 ## 💻 Tech Stack:
 
