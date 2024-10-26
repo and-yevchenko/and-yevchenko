@@ -5,8 +5,10 @@
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/Andrii%20Yevchenko-red?style=flat&logo=gmail&logoColor=white&labelColor=red)](mailto:anddevpublic@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/Andrii%20Yevchenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/and-yevchenko)
+[![Mail Badge](https://img.shields.io/badge/Email-%23141514?style=for-the-badge)](mailto:anddevpublic@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-%23141514?style=for-the-badge)](https://www.linkedin.com/in/and-yevchenko)
+[![Website Badge](https://img.shields.io/badge/Website-%23141514?style=for-the-badge)](https://www.yevchenko.pro/)
+[![SV Badge](https://img.shields.io/badge/СV-%23141514?style=for-the-badge)](https://www.yevchenko.pro/andrii-yevchenko-cv.pdf)
 
 ## 💻 Tech Stack:
 
