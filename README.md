@@ -7,8 +7,8 @@
 
 [![Mail Badge](https://img.shields.io/badge/Email-%23141514?style=for-the-badge)](mailto:anddevpublic@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%23141514?style=for-the-badge)](https://www.linkedin.com/in/and-yevchenko)
-[![Website Badge](https://img.shields.io/badge/Website-%23141514?style=for-the-badge)](https://www.yevchenko.pro/)
-[![SV Badge](https://img.shields.io/badge/СV-%23141514?style=for-the-badge)](https://www.yevchenko.pro/andrii-yevchenko-cv.pdf)
+[![Website Badge](https://img.shields.io/badge/Website-%23141514?style=for-the-badge)](https://yevchenko.vercel.app/)
+[![SV Badge](https://img.shields.io/badge/СV-%23141514?style=for-the-badge)](https://yevchenko.vercel.app/andrii-yevchenko-cv.pdf)
 
 ## 💻 Tech Stack:
 
@@ -43,7 +43,7 @@
 ## 📊 Stats:
 
 <div align="center">
-  <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=and-yevchenko&show_icons=true&theme=transparent"/>
+  <img alt="Andrii GitHub stats" src="https://github-readme-stats.vercel.app/api?username=and-yevchenko&show_icons=true&theme=transparent"/>
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=and-yevchenko&theme=transparent&layout=compact&&langs_count=8"/>
 </div>
 <!--
