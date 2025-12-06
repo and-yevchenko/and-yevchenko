@@ -40,12 +40,6 @@
 [![Static Badge](https://img.shields.io/badge/vitest-%236E9F18?style=for-the-badge&logo=vitest&logoColor=white&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=%23000)](#)
 
-## 📊 Stats:
-
-<div align="center">
-  <img alt="Andrii GitHub stats" src="https://github-readme-stats.vercel.app/api?username=and-yevchenko&show_icons=true&theme=transparent"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=and-yevchenko&theme=transparent&layout=compact&&langs_count=8"/>
-</div>
 <!--
 **and-yevchenko/and-yevchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
