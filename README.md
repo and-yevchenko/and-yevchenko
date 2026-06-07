@@ -1,9 +1,15 @@
 ![preview](banner.jpg)
 ## Hi, I'm Andrii 👋
 
-⚜ I'm Andrii Yevchenko, a **Software Engineer** based in Ukraine. I have experience in Front-end development. I like combining my technical knowledge with interesting and extraordinary ideas to make applications of interest to customers and users. Coding is my lifestyle. ⚜
+⚜ Software Engineer from Ukraine.
 
-:mailbox: Reach me out!
+💡 Turning ideas into products.
+
+🚀 Always learning, always building.
+
+🎯 Focused on growth, quality, and meaningful solutions.
+
+:mailbox: Let's connect!
 
 [![Mail Badge](https://img.shields.io/badge/Email-%23141514?style=for-the-badge)](mailto:anddevpublic@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%23141514?style=for-the-badge)](https://www.linkedin.com/in/and-yevchenko)
