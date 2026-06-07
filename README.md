@@ -15,6 +15,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%23141514?style=for-the-badge)](https://www.linkedin.com/in/and-yevchenko)
 [![Website Badge](https://img.shields.io/badge/Website-%23141514?style=for-the-badge)](https://yevchenko.vercel.app/)
 [![SV Badge](https://img.shields.io/badge/СV-%23141514?style=for-the-badge)](https://yevchenko.vercel.app/andrii-yevchenko-cv.pdf)
+[![Ko-fi Badge](https://img.shields.io/badge/kofi-%23141514?style=for-the-badge)](https://ko-fi.com/andyevchenko)
+
 
 ## 💻 Core Skills:
 
