@@ -1,4 +1,4 @@
-![preview](banner.jpg)
+![preview](banner-2.png)
 ## Hi, I'm Andrii 👋
 
 ⚜ Software Engineer from Ukraine.
