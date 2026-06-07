@@ -20,11 +20,11 @@
 
 ## 💻 Core Skills:
 
-[![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)](#)
-[![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black)](#)
-[![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%61DAFB&labelColor=black)](#)
-[![Static Badge](https://img.shields.io/badge/node%20js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black)](#)
-[![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=%23000)](#)
+[![JavaScript](https://img.shields.io/badge/javascript-%23000000?style=for-the-badge)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23000000?style=for-the-badge)](#)
+[![Node JS](https://img.shields.io/badge/node%20js-%23000000?style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge)](#)
+[![SQL](https://img.shields.io/badge/sql-%23000000?style=for-the-badge)](#)
 
 <!--
 **and-yevchenko/and-yevchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
